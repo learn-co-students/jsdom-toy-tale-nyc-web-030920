@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 11
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 10
     },
     {
       "id": 3,
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Charles",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/I_am_a_shih_tzu-_I_was_born_on_February_2_2012-I_am_brown_and_white_i_am_loving_and_kind-_2013-05-10_19-21.jpg/1200px-I_am_a_shih_tzu-_I_was_born_on_February_2_2012-I_am_brown_and_white_i_am_loving_and_kind-_2013-05-10_19-21.jpg",
+      "likes": 1,
+      "id": 9
     }
   ]
 }
